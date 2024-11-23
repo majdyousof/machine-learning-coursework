@@ -13,4 +13,4 @@ Then, install the `requirements.txt` file to install the dependencies into your 
 ``` Bash
  pip install -r requirements.txt
  ```
- Then use the environment as your jupyter notebook kernel
+ Then use the environment as your jupyter notebook kernel.
